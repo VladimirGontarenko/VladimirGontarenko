@@ -10,7 +10,6 @@
 - 💻 **Основной стек**: Java, Spring Boot, Hibernate/JPA, PostgreSQL
 - 🛠️ **Инструменты**: Docker, Gradle, Git, Liquibase, Maven
 - 🌍 **Опыт**: REST API, микросервисы, базы данных, CI/CD
-- 📫 **Email**: твой@email.com
 
 ### 🔥 Последние проекты
 | Проект | Описание | Стек |

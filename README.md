@@ -5,17 +5,17 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 </div>
 
-### 🚀 Обо мне
+### 🚀 About me
 - 👨‍💼 **Backend разработчик** (Java 17+, Spring Boot 3)
-- 💻 **Основной стек**: Java, Spring Boot, Hibernate/JPA, PostgreSQL, Kafka, S3 MinIO
-- 🛠️ **Инструменты**: Docker, Gradle, Git, Liquibase, Maven
-- 🌍 **Опыт**: REST API, микросервисы, базы данных, CI/CD
+- 💻 **Tech Stack**: Java, Spring Boot, Hibernate/JPA, PostgreSQL, Kafka, S3 MinIO
+- 🛠️ **Tools**: Docker, Gradle, Git, Liquibase, Maven
+- 🌍 **Experience**: REST API, микросервисы, базы данных, CI/CD
 
 ### 🔥 Последние проекты
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [document-workflow-service](https://github.com/document-workflow-service) | Сервис документооборота с workflow | Spring Boot, PostgreSQL, JPA |
-### 🛠️ Навыки
+### 🛠️ Skills
 <table>
 <tr>
   <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></td>

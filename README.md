@@ -7,7 +7,7 @@
 
 ### 🚀 Обо мне
 - 👨‍💼 **Backend разработчик** (Java 17+, Spring Boot 3)
-- 💻 **Основной стек**: Java, Spring Boot, Hibernate/JPA, PostgreSQL
+- 💻 **Основной стек**: Java, Spring Boot, Hibernate/JPA, PostgreSQL, Kafka, S3 Ninio
 - 🛠️ **Инструменты**: Docker, Gradle, Git, Liquibase, Maven
 - 🌍 **Опыт**: REST API, микросервисы, базы данных, CI/CD
 

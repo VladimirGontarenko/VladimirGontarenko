@@ -17,8 +17,6 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [document-workflow-service](https://github.com/document-workflow-service) | Сервис документооборота с workflow | Spring Boot, PostgreSQL, JPA |
-| [spring-boot-template](https://github.com/spring-boot-template) | Шаблон Spring Boot проекта | Spring Boot 3, Docker |
-
 ### 🛠️ Навыки
 <table>
 <tr>

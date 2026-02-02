@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007396&center=true&lines=Java+Backend+Developer;Spring+Boot+%26+Java+17;PostgreSQL+%26+Docker;REST+API+%26+JPA;Microservices+Architecture"/>
   <br><br>
   
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&layout=compact&theme=radical&hide_border=true)
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 </div>
 
 ### 🚀 Обо мне
